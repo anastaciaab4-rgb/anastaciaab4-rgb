@@ -38,9 +38,6 @@ J'aime comprendre les données, analyser les tendances et transformer des inform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anastacia_Abdelshahid-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastaciaab/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mon_profil-181717?style=flat&logo=github&logoColor=white)(https://github.com/anastaciaab4-rgb/)
-]
-
 ### Employer?
 
 Vous recherchez une étudiante motivée dans les domaines de la Data, de la Business Intelligence ou de l'Intelligence Artificielle ?
